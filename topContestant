@@ -1,20 +1,20 @@
 
 [
-{
-      "id":"1",
-      "image_title":"Neelima Magar",
-      "image_url":"https://preview.ibb.co/dvbUoe/neelima.jpg"
-   },
    {
-      "id":"2",
+      "id":"1",
       "image_title":"Sumit Pathak",
       "image_url":"https://image.ibb.co/mCNDEK/SUMIT_PATHAK.jpg"
    },
   
    {
-      "id":"3",
+      "id":"2",
       "image_title":"Bikram Baral",
       "image_url":"https://image.ibb.co/kU50uK/bikram_baral.jpg"
+   },
+   {
+      "id":"3",
+      "image_title":"Neelima Magar",
+      "image_url":"https://preview.ibb.co/dvbUoe/neelima.jpg"
    },
    {
       "id":"4",
